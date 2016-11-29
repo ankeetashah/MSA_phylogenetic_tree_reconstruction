@@ -1,0 +1,128 @@
+CLUSTAL O(1.2.1) multiple sequence alignment
+
+
+Caenorhabditis_elegans        MAVSPHKTYPIVITHGEKYTLFNDESIGKGAYSEVYRGRTESGRLVAVKTACKKLEVAAI
+Haemonchus_contortus          ----------MICWDGLEYSIDFSKKIGTGAYGNIHPGRTQSGRRVAVKHARDEKEIRAA
+Oesophagostomum_dentatum      --------------------------------FQVHTGRAASGRSVAVKCARDAKEIVAA
+Ancylostoma_ceylanicum        ----------MISQDGEEYTIDFSRKIGSGAYGNVHPGRASSGRTVAVKCARDAKEIVAA
+Ancylostoma_duodenale         ----------MISQDGEEYTIDFSRKIGSGAYGNVHPGRASSGRTVAVKCARDAKEIVAA
+                                                               ::: **: *** **** * .  *: * 
+
+Caenorhabditis_elegans        GIEIEILKKLKGASNIVQYFGSNHTKMAPGSVTSETISFAMEYASSSLEAEMRRPKNHRG
+Haemonchus_contortus          RKEVEFYRRCAGAPNIVKYIGSRHKLATD--HSPERFSFAMERALFSLESLVKQVRNLRG
+Oesophagostomum_dentatum      KKEVEFYKRCAGGRNIVKYIGSQYKEATD--RSPERFSFAMERAMFSLDKLMKQVRHLHG
+Ancylostoma_ceylanicum        RKEVEFYRRCAGARNIVKYVGSQHKNATD--HSPERFSFAMERALFSLDKLMKQVRHLRG
+Ancylostoma_duodenale         RKEVEFYRRCAGARNIVKYVGSQHKNATD--HSPERFSFAMERALFSLDKLMKQGRHLHG
+                                *:*: ::  *. ***:*.**.:.  :    : * :***** *  **:  ::: :. :*
+
+Caenorhabditis_elegans        LSSNALIDLVVDCSMALSALREHNIAHRDIKHMNILLFPGTPTRGRRSTHLFKLCDMGCS
+Haemonchus_contortus          LPREVIIDLLRDSVSALTTLKERGIAHRDIKHLNILVFPGS-TKGRRSQYLFKFCDMGVS
+Oesophagostomum_dentatum      LAKDILIDLLVDCASALNTLKSRGIAHRDIKHLNILVFPGP-RKGRKSQYLFKFCDMGVS
+Ancylostoma_ceylanicum        LPKDIIVDLLVDSTSALNALKTRGIAHRDIKHLNILVFPGQ-RRGRKSQYLFKFCDMGVS
+Ancylostoma_duodenale         LPKDIIIDLLVDSASALNALKTRGIAHRDIKHLNILVFPGL-RKGRKSQYLFKFCDMGVS
+                              *  : ::**: *.  **.:*: : ********:***:***   :**:* :***:**** *
+
+Caenorhabditis_elegans        KSLSENSSHEMRTLVGTPNLLHPFLAHEMVDPLMAQNRHNWKTKSAYTSEQCDLWALGCT
+Haemonchus_contortus          SFVHED--GVMQTLVGTPNALCPELAVAY-------AQRRTRTNDNYTREQCDLWSFGCT
+Oesophagostomum_dentatum      SFVHDG--GVMQTLVGTPHVLCPAMADAH-------AHRQAKTRENYTREQCDLWSLGCT
+Ancylostoma_ceylanicum        SFVHEG--GVMQTLVGTPHALCPAMADAH-------ANRQAKTRANYTREECDLWSLGCT
+Ancylostoma_duodenale         SFVHEG--GVMQTLVGTPHALCPAMADAH-------ANRQAKTRANYTREECDLWSLGCT
+                              . : :     *:******. * * :*           .:. :*.  ** *:****::***
+
+Caenorhabditis_elegans        LYFCATGKFPFEHERNNKSLYHKAVVALTQNPDAIAMVLVQKGRDPGRRTDIFEFQPVTE
+Haemonchus_contortus          LYYVATGAFPFPIDAKDSSVYAQAVAEGIRPEGAISAERVCCG--INRYV--Y----KYG
+Oesophagostomum_dentatum      FYFVSTGKSPFPIDSKDSNVYANAVAEANRPEGAIAAERVCTD--SGRYM--Y----NYS
+Ancylostoma_ceylanicum        FYYVATGKSPFPIDTKDSNVYAHAVAEANRPEGAISAERVSFD--ANRYM--Y----KYG
+Ancylostoma_duodenale         FYYVATGKSPFPIDTKDSNVYAHAVAEANRPEGAISAERVSFD--ANRYM--Y----KYG
+                              :*: :**  **  : ::..:* .**.   :   **:   *       *    :       
+
+Caenorhabditis_elegans        LPAKFTRYPKWLVSTMTCLLRSFF-HEPSIEYYAKVADAMRNSKRRTFSSVDQMSIVEHT
+Haemonchus_contortus          FKIENPVHPKWFCHCLTKMVAMLFSPNRSLEALSEMVNSLVTSTEKRFFSIESMEIYSYC
+Oesophagostomum_dentatum      YDIPNTTYPKWFRHCLAKLIGVLFSKEPTLEALDEMVSALEKSVEKKFISIESMDTFSYC
+Ancylostoma_ceylanicum        YTIPNDSYPKWFRHCLAKLIATLFSKEPTLESLDEMVSALEKSVEKKFISIESMEIFSYC
+Ancylostoma_duodenale         YTIPNVSYPN---------------KEPTLESLDEMVSALEKSVEKKFISIESMEIFSYC
+                                     :*:                : ::*   ::..:: .* .: * *::.*.  .: 
+
+Caenorhabditis_elegans        DMSNVPHLGFSIPSISKCLGYPEGTDILLLSNTSTHYLDSKQKSVD---GLPDDLYLVVP
+Haemonchus_contortus          NLSNVLSFSAGYPQLKDELGLKPFVEYRLIYENQLAVFTSKCLEANYSHQSPPILFPLLT
+Oesophagostomum_dentatum      DLKEVPQFSRNYPTLEEELGLKEGVEYRLIYENELAMFTSKLENQNRHRQYPPILYPVLA
+Ancylostoma_ceylanicum        DLKDVPQFSRGYPTLKDELSLKDGVKYQLIYEDDLVVFADATESGKPH-QNSPILFPLLT
+Ancylostoma_duodenale         DLKDVPQFSRGYPTLKDELSLKDGVKYHLIHEDDLAAFTDATENANDH-QSPPILFPLLA
+                              ::.:*  :.   * :.. *.    ..  *: : .   : .   . .        *: :: 
+
+Caenorhabditis_elegans        QTSHVDMRKILARNIEFHEFDDMTDRKLSEIRIKKCYEG-------------L-------
+Haemonchus_contortus          DIPWS--PKQWGLSIED--VGGT------------------TNQGGNPPNNRMSILAQAG
+Oesophagostomum_dentatum      DIPWT--PKIWWRTIQD--KQGM-----------------SKGTGHSSRSARFDMHSQVG
+Ancylostoma_ceylanicum        DIPWT--PKIWWRTIQD--KKG-----------------PSKNGEESSRTARIDMHSQVG
+Ancylostoma_duodenale         DIPWT--PKIWWRTVQD--KKGISIFLFVHRKAMKVYPGTSKNAEESSRTARTDLHSQVG
+                              :       *    .::                                            
+
+Caenorhabditis_elegans        SMLTEIDEYLALFDRVSTILSTQFSLLVQELS-QFERVQTASRFAVYVDMASVPLMLFDE
+Haemonchus_contortus          EALRDCEKIMEVVEVSRNILRNQLERLKIELESVREKTVMPMRFTIHAKMHSFALMPFVE
+Oesophagostomum_dentatum      EALNDCDKILEIVDVSKRILCMQLEMIKNELESAREKTLMPIRFTIYAKMQSFALLPFTS
+Ancylostoma_ceylanicum        DALNDCDKILDVVEMSKKILRVQLERIKSNLESVHEKTLMPIRFTLYAKMQSFALLPFLS
+Ancylostoma_duodenale         DALNDCDKILEVVEMSKKILRMQLERIKSSLETVHEKTLMPIRFTLYAKMQSFALLPFLN
+                              . * : :: : :.:    **  *:. :  .*.   *:.    **:::..* *. *: * .
+
+Caenorhabditis_elegans        ANPETKMISDQCIQQAKRAREELERHAKVSMDIEACAKQLSKDAEDLRLEDMDLPGICEE
+Haemonchus_contortus          NDTDKAVMDRICELA-DSAAKALETCTNFINQSLTITAEHLSELNAVELQTIEEPGLEDD
+Oesophagostomum_dentatum      ADSDRTVMNRVCEMA-GRATKQLEKCITFLNQSLKSASECVSELEAIELEANEIPGVEEE
+Ancylostoma_ceylanicum        EEADKTVMDRVCEMA-GRATKELEKCVAFLNQSLDSATECLSELDKIQLEPTEIPGVEDE
+Ancylostoma_duodenale         EDADRTVMDRVCEMA-GRATKELEKCIAFLNQSLDSAAECLSELDGIQLEPTEIPGVEDE
+                               : :  ::.  *      * : **    .  :    : :  .: : :.*:  : **: ::
+
+Caenorhabditis_elegans        IESYVFYDKQAILSTQKYSQELVELCLKRRNNIMEQIFNSPDRINKSKLNKAMNLAASLS
+Haemonchus_contortus          LNAMLSDD-PHSSAACEYEIRLANKCVARRAELAAQLCNKSQKSIVR---VLLRVARFTV
+Oesophagostomum_dentatum      LNGLLNDD-PST-GVFPYERDLANQCIARRADLAAQLCNNTKSSVVR---VLLRTAR---
+Ancylostoma_ceylanicum        LNDLLNDD-PST-GVFHYEEQLAEQCIARRSDLAAQLCNNTKSSVVR---VLLRTARFVL
+Ancylostoma_duodenale         LNDLLNED-PST-GVLKYEEELAEQCIARRSDLAAQLCNNTKSSVVR---VLLRTARFVL
+                              ::  :  *     ..  *.  *.: *: ** ::  *: *. .          :. *    
+
+Caenorhabditis_elegans        QLRSNYRKLQDMISECVDLLEKPFQEMKDTVNRYLQAQGCSRNTMQKSMHLLRPEFHESQ
+Haemonchus_contortus          DMRVELARYGNIIDDCISDIERPFQELKNCMERLQASSNLDENSFKKALQYYKRASN---
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        DMSSEISKYRNYIDDYVSLIERPFQEMKNCMERMQAEHKLDERSFQKALLYYKRPAN---
+Ancylostoma_duodenale         DMSSEISKYRNYIDDYVSLIERPFQEMKNCMERMQAENKLDERSFQKALLYYKRPAN---
+                                                                                          
+
+Caenorhabditis_elegans        IRIKKTTKSCRKLIDQLNIELDQLGFVRLGDILIKAESEQTLTRSEEIQETQ--------
+Haemonchus_contortus          --ITNHTRLIYERAQLLLQM------VQQKDQSRNSPSVNM-------------------
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        --IIAQTRLIREKVSQVFDL------VQQVNNSK--------------------------
+Ancylostoma_duodenale         --IIAQTRLIREKVSQVTAQ------FPLSNVSIFNDEKDYARRMEHVRKLLPVLSNNLR
+                                                                                          
+
+Caenorhabditis_elegans        ---------------------------------VV----SAESSPNKEQF-------PKP
+Haemonchus_contortus          ------------------------------------------------------------
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        ------------------------------------------------------------
+Ancylostoma_duodenale         KGSCGKIAVIGGSIEYTGAPFFAAISALRLGADLVHVMCAPEAAPVIKGFSPELIVHPGL
+                                                                                          
+
+Caenorhabditis_elegans        EQDSILESSIDEGSTSFESTPPSSPPDVGSNNY----FQAVFQYFAKPTSSPSSS-AK--
+Haemonchus_contortus          ------------------------------------------------------------
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        ------------------------------------------------------------
+Ancylostoma_duodenale         EPETVIPKLERM-------DAIVLGPGLGRNPRLAPLFGNVLEFVRKTD-VPFVMDADGL
+                                                                                          
+
+Caenorhabditis_elegans        ------------------------------------------------------------
+Haemonchus_contortus          ------------------------------------------------------------
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        ------------------------------------------------------------
+Ancylostoma_duodenale         WFLCEAIRQGVPPLPSAILTPNIVEFSRLCESALGIPDVLTIKDQDKLEDLASRLSTHLG
+                                                                                          
+
+Caenorhabditis_elegans        ------------------------------------------------------------
+Haemonchus_contortus          ------------------------------------------------------------
+Oesophagostomum_dentatum      ------------------------------------------------------------
+Ancylostoma_ceylanicum        ------------------------------------------------------------
+Ancylostoma_duodenale         TSLFVKGRVDIITNPDGKVTLGDDEGCPRRCGGQGDVSSGTLAMFLLWATRMSSSHDAKN
+                                                                                          
+
+Caenorhabditis_elegans        ----------------------------------------------------
+Haemonchus_contortus          ----------------------------------------------------
+Oesophagostomum_dentatum      ----------------------------------------------------
+Ancylostoma_ceylanicum        ----------------------------------------------------
+Ancylostoma_duodenale         AAGLACSQLVRRCAKLAYARVGRSMITSDLIDEIPGVLRELDSKKLEDCPRA
+                                                                                  

@@ -1,0 +1,38 @@
+
+
+ DIST   = percentage divergence (/100)
+ Length = number of sites used in comparison
+
+   1 vs.   2  DIST = 0.7045;  length =    670
+   1 vs.   3  DIST = 0.6661;  length =    554
+   1 vs.   4  DIST = 0.6929;  length =    661
+   1 vs.   5  DIST = 0.7052;  length =    743
+   2 vs.   3  DIST = 0.3744;  length =    577
+   2 vs.   4  DIST = 0.3602;  length =    683
+   2 vs.   5  DIST = 0.3713;  length =    676
+   3 vs.   4  DIST = 0.2031;  length =    576
+   3 vs.   5  DIST = 0.1957;  length =    562
+   4 vs.   5  DIST = 0.0731;  length =    670
+
+
+			Neighbor-joining Method
+
+ Saitou, N. and Nei, M. (1987) The Neighbor-joining Method:
+ A New Method for Reconstructing Phylogenetic Trees.
+ Mol. Biol. Evol., 4(4), 406-425
+
+
+ This is an UNROOTED tree
+
+ Numbers in parentheses are branch lengths
+
+
+ Cycle   1     =  SEQ:   1 (  0.51197) joins  SEQ:   2 (  0.19251)
+
+ Cycle   2     = Node:   1 (  0.07435) joins  SEQ:   3 (  0.09362)
+
+ Cycle   3 (Last cycle, trichotomy):
+
+		 Node:   1 (  0.06924) joins
+		  SEQ:   4 (  0.03548) joins
+		  SEQ:   5 (  0.03765) 
